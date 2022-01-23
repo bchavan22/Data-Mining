@@ -1,15 +1,15 @@
 # Data-Mining
 
-##**DATA MINING PROJECT PROPOSAL**
+## **DATA MINING PROJECT PROPOSAL**
 
-##PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 Flight delayed can be huge problem to airline companies and in people’s daily life. Therefore the study focus on which is the best airline companies’ carrier are most reliable carrier. We will use Pattern analysis concept from Data mining
 
 
 **Goal and Task**
 
-###More investigating insight fact about data
+### More investigating insight fact about data
 
 1. EDA will be performed on this data set.
 2. Recommendation to carrier companies
