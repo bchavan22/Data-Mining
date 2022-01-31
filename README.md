@@ -22,3 +22,7 @@ Flight delayed can be huge problem to airline companies and in people’s daily 
 2. This is data set which has more than ~200,000 rows and 20 features.
 3. The data has contained date, airport names, arrival flights count, delayed flights counts, late aircraft counts and so on.
 4. Dataset contain categorical information, and numeric information.
+
+
+**Comprehensive Report on Project**
+####DS 600 Comprehensive Report_Data mining project.pdf
